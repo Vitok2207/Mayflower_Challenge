@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+	
         String s = "1 2 3 4 5";
         String[] s_array = s.split(" ");
         int[] i_array = new int[s_array.length];
